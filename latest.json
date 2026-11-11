@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/Teobokki/piknott-sapphire/releases/download/v1.0.0/PIKNOTT.SAPPHIRE.Setup.1.0.0.exe",
+  "installer_url": "https://github.com/Teobokki/piknott-sapphire/releases/download/v1.0.0/PIKNOTT.SAPPHIRE.Setup.1.0.0.exe",
+  "full_url": "https://github.com/Teobokki/piknott-sapphire/releases/download/v1.0.0/PIKNOTT.SAPPHIRE.1.0.0.Windows.x64.zip",
+  "portable_url": "https://github.com/Teobokki/piknott-sapphire/releases/download/v1.0.0/PIKNOTT.SAPPHIRE.Portable.exe",
+  "sha256": "7a4312e7c81d53c004f3fb6ee0b6dccf9e913a08172dbb62876db8c01e7e21a7",
+  "zip_sha256": "64150b37b472ee28158e1d0fe6d899278e7c1d4ac608729bfad5b40080ae8756",
+  "released": "2026-11-11",
+  "notes": "First release. A new Sapphire region (mountains, caves, glacier and snowy peaks), three starters, a new PIKNOTT roster and the legendary dragon Azurath. Catching and battles use the same PIKCEL and action-order system as PIKNOTT CELESTIKA."
+}
